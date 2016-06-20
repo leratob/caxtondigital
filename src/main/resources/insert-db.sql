@@ -1,0 +1,1 @@
+INSERT INTO artist VALUES ('Metallica', '65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab' , 'US','Metalica,메탈리카');
